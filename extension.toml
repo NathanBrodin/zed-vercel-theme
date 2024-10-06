@@ -1,0 +1,7 @@
+id = "vercel-theme"
+name = "Vercel Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nathan Brodin <nathan@brodin.dev>"]
+description = "▲ Vercel light and dark theme, like in Vercel's docs."
+repository = "https://github.com/NathanBrodin/zed-vercel-theme"
