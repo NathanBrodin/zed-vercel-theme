@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: vercel-theme
-          # extension-path: extensions/${{ extension-name }}
+          extension-name: "Vercel Theme"
+          extension-path: extensions/vercel-theme
           push-to: NathanBrodin/extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
