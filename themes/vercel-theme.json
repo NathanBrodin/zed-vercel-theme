@@ -144,7 +144,11 @@
         "warning": "#ff9907",
         "warning.background": "#ff990733",
         "warning.border": "#ff9907",
-        "players": [],
+        "players": [
+          {
+            "selection": "#52a8ff33"
+          }
+        ],
         "syntax": {
           "property": {
             "color": "#52a8ff",
@@ -452,7 +456,11 @@
         "warning": "#A35200",
         "warning.background": "#A3520033",
         "warning.border": "#A35200",
-        "players": [],
+        "players": [
+          {
+            "selection": "#0068d633"
+          }
+        ],
         "syntax": {
           "property": {
             "color": "#0068d6",
