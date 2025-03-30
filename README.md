@@ -14,24 +14,16 @@ The [Vercel](https://vercel.com) Theme, for [Zed](https://zed.dev)
 1. navigate to [extenstion.toml](./extension.toml) and bump version
 
 2. Commit and push
+```
+git add .
+git commit -m ""
+```
 
-3. Go to my Github fork of `extensions` from Zed, sync changes.
-
-4. Open it locally, pull changes.
-
-5. `cd extensions/vercel-theme`
-
-6. Grab the commit hash of my push
-
-7. `git fetch` and `git checkout <commit-hash>`
-
-8. `cd ../../`, `git add .` and `git commit -m "Update submodule for Vercel Theme extension`
-
-9. `git push origin main`
-
-10. Create a pull request
-
-
+3. Create a tag and push it
+```
+git tag v0.0.x
+git push origin v0.0.x
+```
 
 ## Acknowledgment
 
