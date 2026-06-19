@@ -1,6 +1,6 @@
 id = "vercel-theme"
 name = "Vercel Theme"
-version = "1.0.0"
+version = "1.1.0"
 schema_version = 1
 authors = ["Nathan Brodin <nathan@brodin.dev>"]
 description = "▲ Vercel light and dark theme, like in Vercel's docs."
